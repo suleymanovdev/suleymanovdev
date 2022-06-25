@@ -2,36 +2,26 @@
 
 # ✌️ Welcome!
 
-### Post Topics: #python, #development, #engineering and #programming
-
-### Baku, Azerbaijan.
-
 ## Education:
-<details>
-    #######STEP IT Academy Azerbaijan (Junior Computer Academy):
-    #########1.Computer programming.
-    #########2.Specific applications.
-    #########3.Computer programming.
-    #########4.Specific applications.
+    STEP IT Academy Azerbaijan (Junior Computer Academy):
+    1.Computer programming.
+    2.Specific applications.
+    3.Computer programming.
+    4.Specific applications.
     
     2018 - 2021 :: 2018 - 2021
     Average score: 11.
-</details>
 
-#### Licenses and certificates:
-<details>
-1)  OpenEDG Python Institute
+## Licenses and certificates:
+    OpenEDG Python Institute
     PCAP: Programming Essentials in Python OpenEDG Python Institute
     Date of issue: Feb. 2022 No expiration date.
-</details>
    
-#### Skills:
-<details>
-    <li>Software development.</li>
-    <li>Information Technology.</li>
-    <li>Software development.</li>
-    <li>Programming.</li>
-    <li>C++ (Programming Language).</li>
-    <li>Python (Programming Language).</li>
-    <li>IT Essentials.</li>
-</details>
+## Skills:
+    Software development.
+    Information Technology.
+    Software development.
+    Programming.
+    C++ (Programming Language).
+    Python (Programming Language).
+    IT Essentials.
