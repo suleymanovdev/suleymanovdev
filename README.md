@@ -2,11 +2,11 @@
 
 # ✌️ Welcome!
 
-##### Post Topics: #python, #development, #engineering and #programming
+### Post Topics: #python, #development, #engineering and #programming
 
-##### Baku, Azerbaijan.
+### Baku, Azerbaijan.
 
-#### Education:
+## Education:
 <details>
     #######STEP IT Academy Azerbaijan (Junior Computer Academy):
     #########1.Computer programming.
