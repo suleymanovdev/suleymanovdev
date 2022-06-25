@@ -21,7 +21,7 @@ Licenses and certificates:
     PCAP: Programming Essentials in Python OpenEDG Python Institute
     Date of issue: Feb. 2022 No expiration date.
    
-Skills:
+## Skills:
 <details> 
     <li>Software development.</li>
     <li>Information Technology.</li>
