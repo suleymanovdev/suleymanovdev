@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/suleymanov-elvin/"><img width="240" align="right" src="https://github.com/suleymanovdev/suleymanovdev/blob/main/img.jpg?raw=true"></a>
+<a href="https://www.linkedin.com/in/suleymanov-elvin/"><img width="250" align="right" src="https://github.com/suleymanovdev/suleymanovdev/blob/main/img.jpg?raw=true"></a>
 
 ### Education:
     STEP IT Academy Azerbaijan (Junior Computer Academy):
