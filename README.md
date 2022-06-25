@@ -1,7 +1,6 @@
 <a href="https://www.linkedin.com/in/suleymanov-elvin/"><img width="240" align="right" src="https://github.com/suleymanovdev/suleymanovdev/blob/main/img.jpg?raw=true"></a>
 
-# Elvin Suleymanov           
-## Site: suleymanovdev.github.io
+# ✌️ Welcome!
 
 Post Topics: #python, #development, #engineering and #programming
 
@@ -23,10 +22,12 @@ Licenses and certificates:
     Date of issue: Feb. 2022 No expiration date.
    
 Skills:
-1) Software development.
-2) Information Technology.
-3) Software development.
-4) Programming.
-5) C++ (Programming Language).
-6) Python (Programming Language).
-7) IT Essentials.
+<details> 
+    <li>Software development.</li>
+    <li>Information Technology.</li>
+    <li>Software development.</li>
+    <li>Programming.</li>
+    <li>C++ (Programming Language).</li>
+    <li>Python (Programming Language).</li>
+    <li>IT Essentials.</li>
+</details>
