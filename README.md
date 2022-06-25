@@ -8,13 +8,12 @@
 
 #### Education:
 <details>
-    `
-    STEP IT Academy Azerbaijan (Junior Computer Academy):
-    1.Computer programming.
-    2.Specific applications.
-    3.Computer programming.
-    4.Specific applications.
-    `
+    #######STEP IT Academy Azerbaijan (Junior Computer Academy):
+    #########1.Computer programming.
+    #########2.Specific applications.
+    #########3.Computer programming.
+    #########4.Specific applications.
+    
     2018 - 2021 :: 2018 - 2021
     Average score: 11.
 </details>
